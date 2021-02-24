@@ -2,7 +2,7 @@
 
 Group 16
 
-Barış Tiftik
-Ege Moroğlu
-Mehmet Yiğit Harlak
+Barış Tiftik, 
+Ege Moroğlu, 
+Mehmet Yiğit Harlak, 
 Melisa Onaran
